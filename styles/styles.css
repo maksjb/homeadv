@@ -12,3 +12,11 @@ h3 {
   margin-bottom: 50px;
   float: right;
 }
+.all {
+  margin-left: 100px;
+  height: 40px;
+  width: 520px;
+  border: 1px solid #dfe1e5;
+  outline-color: #4d90fe;
+  box-shadow: -2px green;
+}
